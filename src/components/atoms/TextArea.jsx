@@ -1,4 +1,4 @@
-import "../../styles/atoms/textArea.css";
+import "../../styles/atoms/TextArea.css";
 
 function TextArea({ text, onChange }) {
 
